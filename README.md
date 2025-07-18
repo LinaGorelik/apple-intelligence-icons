@@ -1,8 +1,9 @@
 # apple-intelligence-icons
 <div id="header" align="center">
-  <img src="https://github.com/LinaGorelik/apple-intelligence-icons/commit/d56463d388534a61f1bbe621b5d7bb82f35431f4" width="800"/>
+  <img src="https://github.com/LinaGorelik/apple-intelligence-icons/blob/main/Tako-lets-test-the-TikTok-AI-chatbot-how-it-works.jpg"800"/>
 </div>
-icons
+
+
 # 🧠 Artificial intelligence: Apple Intelligence and the future of testing
 
 > **"Unbelievably thin. Incredibly powerful."**  
