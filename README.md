@@ -85,12 +85,9 @@ If you want to improve AI testing, add new icons or integrations - just write to
 
 ---
 
-## 🍎 Вдохновлено Apple Design Language
-
-> "Sky blue color. Sky high performance with M4."  
-> "Now supercharged by the M3 chip."  
-> "The instant classic."
-
----
-
 Made with ❤️ and attention to detail - just like Apple.
+
+## 🎨 Иконки в стиле Apple
+
+Here are some of the icons you will find in the project:
+### 📱 iPhone 16 Family  
