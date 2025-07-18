@@ -87,7 +87,7 @@ If you want to improve AI testing, add new icons or integrations - just write to
 
 Made with ❤️ and attention to detail - just like Apple.
 
-## 🎨 Иконки в стиле Apple
+## 🎨 Icons in style Apple
 
 Here are some of the icons you will find in the project:
 ### 📱 iPhone 16 Family  
